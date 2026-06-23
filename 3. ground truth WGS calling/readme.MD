@@ -1,0 +1,1 @@
+This is CNVkit script for calling CNVs in WGS ground truth. It mostly does the same thing as CNVkit in vdWGS pipeline, minus the logic for separate processing of targets and background, and minus QDNA integration.
